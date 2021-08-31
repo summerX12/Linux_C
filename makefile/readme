@@ -1,0 +1,5 @@
+a.out ->  main.o  tool1.o tool2.o
+main.o  -> main.c
+tool1.o  -> tool1.c
+tool2.o  -> tool2.c
+
